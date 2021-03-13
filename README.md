@@ -4,9 +4,7 @@
 #### Front-end web developer
 I really enjoy coding with Javascript and frameworks like React.js and React native, as well as learning other technology.
 
-Skills:
-- :snowflake: React.js
-- :cyclone: React native
+Skills: :snowflake: React.js/ :cyclone: React native / :first_quarter_moon_with_face: Javascript / :volcano: HTML / :earth_asia: CSS
 
 - 🔭 I’m currently working on a shop app 
 - 🌱 I’m currently learning PHP 
