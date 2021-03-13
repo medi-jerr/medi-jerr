@@ -1,7 +1,7 @@
+
+![Front-end web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 ### Hi there 👋, my name is Mehdi
 #### Front-end web developer
-![Front-end web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 I really enjoy coding with Javascript and frameworks like React.js and React native, as well as learning other technology.
 
 Skills: REACT / REDUX /JS / HTML / CSS/ GIT / 
