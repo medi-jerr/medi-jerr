@@ -1,5 +1,5 @@
 
-<img src="https://picsum.photos/seed/picsum/200/300" width:"600px"/>
+<img src="https://picsum.photos/seed/picsum/200/300" style='width:"600px"'/>
 ### Hi there 👋, my name is Mehdi
 #### Front-end web developer
 I really enjoy coding with :first_quarter_moon_with_face:Javascript and frameworks like :snowflake:React.js and :cyclone:React native, as well as learning other technology.
