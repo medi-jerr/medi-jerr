@@ -2,7 +2,7 @@
 
 ### Hi there 👋, my name is Mehdi
 #### Front-end web developer
-I really enjoy coding with Javascript and frameworks like React.js and React native, as well as learning other technology.
+I really enjoy coding with :first_quarter_moon_with_face:Javascript and frameworks like :snowflake:React.js and :cyclone:React native, as well as learning other technology.
 
 Skills: :snowflake: React.js/ :cyclone: React native / :first_quarter_moon_with_face: Javascript / :volcano: HTML / :earth_asia: CSS
 
